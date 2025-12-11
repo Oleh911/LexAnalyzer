@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexAnalyzer", "LexAnalyzer\LexAnalyzer.csproj", "{51750B14-2CFF-4C53-9696-D11A1F6E405A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51750B14-2CFF-4C53-9696-D11A1F6E405A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51750B14-2CFF-4C53-9696-D11A1F6E405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51750B14-2CFF-4C53-9696-D11A1F6E405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51750B14-2CFF-4C53-9696-D11A1F6E405A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC87988-D3AD-4356-862D-C76E0DB33E47}
+	EndGlobalSection
+EndGlobal
